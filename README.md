@@ -7,4 +7,4 @@ Uninstall Onedrive,
 Edit the Hosts file to block sending Telemetry Data to Microsoft.
 If you want you can contibute to this project. 
 
-This requires you to be elevated (to be run as administrator). Right click the batch file and run as administrator or run in elevated cmd.
+This requires you to be elevated (to be run as administrator). Right click the batch file and run as administrator or run in elevated cmd. Press any key after launching it in elevated cmd and it will do its magic.
